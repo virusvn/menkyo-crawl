@@ -1,4 +1,6 @@
 *.log
 *.csv
+*.zip
+*.tsv
 venv
 images
