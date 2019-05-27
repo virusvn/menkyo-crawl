@@ -14,3 +14,11 @@ python main.py
 python download_image.py
 
 ```
+
+
+## Flow
+
+- Get data from menkyo
+- Download images
+- Add furigana to Question/Answer
+- Fix some sentences don't have furigana

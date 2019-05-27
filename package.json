@@ -1,0 +1,30 @@
+{
+  "name": "menkyo-crawl",
+  "version": "1.0.0",
+  "description": "## Crawl quizzes from Menkyo for Japan Driver's License Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/virusvn/menkyo-crawl.git"
+  },
+  "keywords": [
+    "japanese"
+  ],
+  "author": "Nhan Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/virusvn/menkyo-crawl/issues"
+  },
+  "homepage": "https://github.com/virusvn/menkyo-crawl#readme",
+  "dependencies": {
+    "csv": "^5.1.1",
+    "esm": "^3.2.25",
+    "kuroshiro": "^1.1.2",
+    "kuroshiro-analyzer-kuromoji": "^1.1.0",
+    "kuroshiro-analyzer-mecab": "^1.0.1",
+    "kuroshiro-analyzer-yahoo-webapi": "^1.2.0"
+  }
+}
