@@ -2,5 +2,7 @@
 *.csv
 *.zip
 *.tsv
+*.pyc
+bin
 venv
 images
